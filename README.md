@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+NAME : Srinidhi P
+REG NO:212222040160
 
 ## AIM:
 To create a warehouse application in salesforce.com
